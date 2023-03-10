@@ -1,0 +1,5 @@
+{
+    "token": "", //Discord token
+    "clientId": "", //ID of Discord bot
+    "apiKey": "" //VirusTotal API key
+}
